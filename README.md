@@ -1,2 +1,2 @@
 # dEvDSA
-will be positng my dsa problems practice codes nd explanation
+Posting my DSA practice problems solved codes with explanation of various platforms like leetcode, geeksforgeeks, codecehef, codeforces ..etc 
